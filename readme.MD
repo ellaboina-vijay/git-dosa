@@ -1,3 +1,5 @@
 # dosa
 dosa flour added ,
-light oil added ,
+added karam ,
+and oil added then ready for serve karam dosa
+then now attached little more oil .
