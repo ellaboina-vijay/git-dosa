@@ -25,3 +25,7 @@ and oil added then ready for serve karam dosa
 * egg 
 * masala 
 * alu fry
+
+
+
+again 4 egges aded in upkma dosa 
