@@ -9,3 +9,8 @@ and oil added then ready for serve karam dosa
 * dosa flour
 =======
 
+# karam-dosa
+=============
+* dosa flour and water added then mis the flour 
+
+
