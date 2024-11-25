@@ -21,6 +21,7 @@ and oil added then ready for serve karam dosa
 * oil
 * karam
 
-
-
-
+* upkma
+* egg 
+* masala 
+* alu fry
