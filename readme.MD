@@ -11,7 +11,8 @@ and oil added then ready for serve karam dosa
 
 # karam-dosa
 =============
-* dosa flour and water added then mis the flour 
+* dosa flour and water added then mis the flour
+* karam added 
 
 # upkma-dosa project started
 ============================
