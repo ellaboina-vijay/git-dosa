@@ -25,3 +25,9 @@ and oil added then ready for serve karam dosa
 * egg 
 * masala 
 * alu fry
+
+
+# special dosa by feature 1
+* dosa butter
+* karam
+* oil
