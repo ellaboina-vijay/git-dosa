@@ -31,3 +31,8 @@ and oil added then ready for serve karam dosa
 * dosa butter
 * karam
 * oil
+# how many things have vijay 
+* 5 pencils 
+* 4 pens 
+* 3 pencils 
+* 6 eracers
