@@ -25,11 +25,30 @@ and oil added then ready for serve karam dosa
 * egg 
 * masala 
 * alu fry
-
-<<<<<<< HEAD
+<
 # special-dosa 
 ============== 
 * mysure masala
 * dosa butter
 * karam
 * oil
+<
+
+
+
+# mahesh have what things
+
+* 4 chalkmar
+* 6 pens 
+* 5 pencils 
+* 20 earcers
+* paper charts
+* drwing sheets
+
+=======
+
+=======
+# special dosa by feature 1
+* dosa butter
+* karam
+
