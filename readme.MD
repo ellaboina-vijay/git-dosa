@@ -27,10 +27,13 @@ and oil added then ready for serve karam dosa
 * alu fry
 
 
-# special dosa by feature 1
+# special-dosa 
+============== 
+* mysure masala
 * dosa butter
 * karam
 * oil
+<
 
 
 
@@ -42,4 +45,6 @@ and oil added then ready for serve karam dosa
 * 20 earcers
 * paper charts
 * drwing sheets
+
+=======
 
