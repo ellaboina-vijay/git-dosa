@@ -26,9 +26,10 @@ and oil added then ready for serve karam dosa
 * masala 
 * alu fry
 
+<<<<<<< HEAD
 # special-dosa 
-==============
-* karam 
-mysure masala
-
-
+============== 
+* mysure masala
+* dosa butter
+* karam
+* oil
