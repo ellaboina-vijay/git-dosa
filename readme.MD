@@ -53,4 +53,5 @@ and oil added then ready for serve karam dosa
 * karam
 # special dosa- by raheem
 * dosa batter
-
+* podi
+* karam
