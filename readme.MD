@@ -67,3 +67,5 @@ and oil added then ready for serve karam dosa
 # spcial dosa - kumar 
 * dosa batter
 * podi
+* karam
+
