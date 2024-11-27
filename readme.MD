@@ -63,3 +63,9 @@ and oil added then ready for serve karam dosa
 * podi
 * oil
 
+# special-vijay
+* dosa batter 
+* bombai chutney
+* podi
+* karam 
+* oil
