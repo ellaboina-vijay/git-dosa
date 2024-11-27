@@ -51,6 +51,13 @@ and oil added then ready for serve karam dosa
 # special dosa by feature 1
 * dosa butter
 * karam
+* oil
+# how many things have vijay 
+* 5 pencils 
+* 4 pens 
+* 3 pencils 
+* 6 eracers
+=======
 # special dosa- by raheem
 * dosa batter
 * podi
